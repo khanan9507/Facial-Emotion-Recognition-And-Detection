@@ -31,4 +31,4 @@ FER-2013 Dataset from Kaggle
 - 48x48 pixel images
 
 ## 👩‍💻 Author
-Khanan Chaudhari | BTech AI/ML
+Khanan Chaudhari | BTech In AI/ML
